@@ -1,0 +1,35 @@
+img {
+    width: 200px 
+}
+body {
+    text-align: center; 
+    font-family: 'Gaegu'; 
+    background: azure;
+    color: purple; 
+}
+
+#container {
+    max-width: 800px; 
+    margin: 0 auto;  
+    padding: 20px;    
+    text-align: center; 
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffe4e1; /* Light pink */
+    border-bottom: 2px solid #3498db; /* Optional border for style */
+}
+  
+header h1 {
+    color: #3498db; /* Blue color for the title */
+    font-family: 'Arial', sans-serif;
+}
+  
+header img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Round the edges of the image */
+}
+  
